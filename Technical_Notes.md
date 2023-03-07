@@ -4,7 +4,7 @@
 Скачать репозиторий с Codex с https://huggingface.co/spaces/Gradio-Blocks/Codex_OpenAI/tree/main
 Попробовать протестировать модель локально
 
-Поискать про ChatGPT:
-- модель 
-- статью
-Спросить инфу про ChatGPT
+Запустить модель DeepCoder
+
+Протестировать GPT-3 позже
+
